@@ -1,5 +1,8 @@
 ### Hey!
 
+My name is David, a PhD candidate at TU Delft as part of the
+[UrbanAIR](https://www.urbanair-project.eu) project, funded by EU Horizon Europe.
+
 My name is David, a second-year Master student in Applied Mathematics at TU Delft.
 Currently, I am working on my Master thesis on bias-aware sequential data assimilation
 methods under parameter uncertainty.
@@ -18,7 +21,7 @@ data-driven modeling of financial crime.
 #### Projects
 
 - [Application of a Bias EnKF for the Global Tide and Surge Model](https://github.com/Daples/internship-deltares)
-- [Sequential Data Assimilation in the Western Scheld Estuary](https://github.com/Daples/data-assimilation)
+- [Sequential Data Assimilation in the Western Scheld Estuary](https://github.com/Daples/data-assimilation-course)
 - [A Comparison of Sparse Direct and Preconditioned Krylov Subspace Solvers in Two and Three Dimensions](https://github.com/Daples/scientific-computing)
 - [Implementation Supervised Clustering Algorithms, and a QR-based Eigensolver](https://github.com/Daples/opt-for-ML/tree/main/project1)
 - [Grid Search and a Bayesian Optimizer for Hyperparameter Optimization](https://github.com/Daples/opt-for-ML/tree/main/project2)
